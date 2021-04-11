@@ -1,0 +1,28 @@
+{
+  "name": "obj-resolver",
+  "version": "1.0.0",
+  "description": "helper that simplify object inheritance",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtnm/obj-resolver.git"
+  },
+  "keywords": [
+    "object",
+    "inherit"
+  ],
+  "author": "Antonov Andrew <wtnm@rambler.ru> (https://github.com/wtnm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtnm/object-resolver/issues"
+  },
+  "homepage": "https://github.com/wtnm/object-resolver#readme",
+  "dependencies": {
+    "is-fns": "^1.0.0",
+    "objects-fns": "^1.0.1",
+    "react-merge": "^1.0.0"
+  }
+}
